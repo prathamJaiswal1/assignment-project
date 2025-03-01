@@ -60,8 +60,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ayushjaiz/rbac-project
-   cd rag-chatbot
+   git clone https://github.com/prathamJaiswal1/assignment-project
+   cd assignment-project
    ```
 2. **Install dependencies:**
    ```bash
