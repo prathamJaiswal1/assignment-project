@@ -1,6 +1,6 @@
 # RBAC
 
-## The RBAC (Role-Based Access Control) project focuses on managing and enforcing access control in applications by assigning roles to users and associating permissions with those roles. The app uses Postgres as databse with Prisma as ORM. Redis is employed to implement a rate-limiting mechanism to prevent DDoS and bruteforce attack.
+## Assignment Submission Portal.
 
 ## Table of Contents
 
